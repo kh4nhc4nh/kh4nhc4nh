@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./khanh.gif"
+    alt="Animated cybersecurity GIF"
+    width="500"
+  />
+</p>
+
 <div align="center">
 
 # Hi, I'm Khanh 👋
