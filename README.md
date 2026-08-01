@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cyber-hacker.gif" alt="Animated cybersecurity GIF" width="100%" />
+  <img src="./khanh.gif" alt="Animated cybersecurity GIF" width="100%" />
 </p>
 
 <div align="center">
