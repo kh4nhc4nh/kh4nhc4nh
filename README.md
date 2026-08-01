@@ -75,7 +75,13 @@ and laboratory documentation.
 
 ## 📊 GitHub Statistics
 
+<div align="center">
 
+<img height="170" src="./profile/stats.svg" alt="Khánh's GitHub statistics" />
+
+<img height="170" src="./profile/top-langs.svg" alt="Khánh's most used languages" />
+
+</div>
 
 ---
 
