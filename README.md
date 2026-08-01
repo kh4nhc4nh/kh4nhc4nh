@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Khánh 👋
+# Hi, I'm Khanh 👋
 
 ### Cybersecurity Student • Blue Team • SOC • DFIR
 
