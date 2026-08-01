@@ -75,13 +75,7 @@ and laboratory documentation.
 
 ## 📊 GitHub Statistics
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kh4nhc4nh&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh4nhc4nh&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
 
 ---
 
